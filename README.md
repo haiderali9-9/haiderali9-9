@@ -5,7 +5,6 @@
 <img src="/Images/Javascript.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/Jira.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/VisualStudioCode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
-
-
 </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=haiderali9-9&show_icons=true&theme=tokyonight)
+
