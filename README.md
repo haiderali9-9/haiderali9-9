@@ -6,7 +6,7 @@
 <img src="/Images/Jira.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/VisualStudioCode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-![Github stats](https://github-readme-stats.vercel.app/api?username=haiderali9-9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?haiderali9-9= &theme=radical)
 
 
 
