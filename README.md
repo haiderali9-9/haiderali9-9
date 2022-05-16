@@ -6,7 +6,7 @@
 <img src="/Images/Jira.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/VisualStudioCode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-haiderali9-9&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haiderali9-9&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
