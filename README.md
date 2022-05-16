@@ -1,3 +1,5 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haiderali9-9&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Languages and Tools:
 <p align="center">
 <img src="/Images/Git.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -6,7 +8,6 @@
 <img src="/Images/Jira.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/VisualStudioCode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=haiderali9-9&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
