@@ -1,6 +1,5 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=haiderali9-9)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali9-9)](https://github.com/haiderali9-9/github-readme-stats)
 
 
 ## Languages and Tools:
@@ -11,6 +10,10 @@
 <img src="/Images/Jira.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/VisualStudioCode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+## Language used:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali9-9)](https://github.com/haiderali9-9/github-readme-stats)
+
 
 
 
