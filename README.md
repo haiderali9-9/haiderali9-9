@@ -9,6 +9,7 @@
 <img src="/Images/Javascript.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/Jira.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/VisualStudioCode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="/Images/VisualStudioCode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## Language used:
