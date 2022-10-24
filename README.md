@@ -7,6 +7,7 @@
 <img src="/Images/Git.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/Octocat.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/Javascript.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="/Images/html.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/Jira.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/VisualStudioCode.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="/Images/C++.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
