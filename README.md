@@ -1,7 +1,6 @@
 ## Github Stats:
 ![github stats](https://github-readme-stats.vercel.app/api?username=haiderali9-9)
 
-
 ## Languages and Tools:
 <p align="center">
 <img src="/Images/Git.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -17,7 +16,13 @@
 ## Language used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali9-9)](https://github.com/haiderali9-9/github-readme-stats)
 
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-haiderali-blue)](https://www.linkedin.com/in/your-linkedin-username/)
+[![Twitter](https://img.shields.io/twitter/follow/your-twitter-username?style=social)](https://twitter.com/your-twitter-username)
+[![Email](https://img.shields.io/badge/Email-your-email%40domain.com-red)](mailto:your-email@domain.com)
+
 ## Additional Badges
 [![GitHub followers](https://img.shields.io/github/followers/haiderali9-9.svg?style=social)](https://github.com/haiderali9-9)
+
 
 
