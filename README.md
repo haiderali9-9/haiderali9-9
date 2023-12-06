@@ -18,7 +18,7 @@
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haiderali-blue)](https://www.linkedin.com/in/haider-ali-dhothar/)
-[![Twitter](https://img.shields.io/twitter/follow/your-twitter-username?style=social)](https://twitter.com/haidersarfraz6)
+[![Twitter](https://img.shields.io/twitter/follow/haidersarfraz6?style=social)](https://twitter.com/haidersarfraz6)
 [![Email](https://img.shields.io/badge/Email-your-email%40domain.com-red)](mailto:your-email@domain.com)
 
 ## Additional Badges
