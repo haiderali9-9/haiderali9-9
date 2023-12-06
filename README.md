@@ -20,13 +20,4 @@
 ## Additional Badges
 [![GitHub followers](https://img.shields.io/github/followers/haiderali9-9.svg?style=social)](https://github.com/haiderali9-9)
 
-# Description
-A brief overview of your awesome project. What does it do? Why is it useful?
 
-# Table of Contents
-- [GitHub Stats](#github-stats)
-- [Languages and Tools](#languages-and-tools)
-- [Most Used Languages](#most-used-languages)
-- [Language Used](#language-used)
-- [Additional Badges](#additional-badges)
-- [Description](#description)
