@@ -19,7 +19,7 @@
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haiderali-blue)](https://www.linkedin.com/in/haider-ali-dhothar/)
 [![Twitter](https://img.shields.io/twitter/follow/haidersarfraz6?style=social)](https://twitter.com/haidersarfraz6)
-[![Email](https://img.shields.io/badge/Email-your-email%40domain.com-red)](mailto:your-email@domain.com)
+[![Email](https://img.shields.io/badge/Email-your-email%40domain.com-red)](mailto:mrhaiderali@yandex.com)
 
 ## Additional Badges
 [![GitHub followers](https://img.shields.io/github/followers/haiderali9-9.svg?style=social)](https://github.com/haiderali9-9)
